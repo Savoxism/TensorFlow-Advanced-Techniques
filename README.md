@@ -11,4 +11,26 @@ A collection of Jupiter Notebooks from Coursera specializations. The following i
 + Week 4: Custom models, build ResNet
 + Week 5: Custom callbacks to prevent overfitting: TensorBoard, Model Checkpoint, Early Stopping, CSV Logger, Learning rate scheduler, ReduceLROnPlateau
 
-### Course II: 
+### Course II: Custom and Distributed Training with TensorFlow
++ Week 1: Differentiation and gradients
++ Week 2: Custom training
++ Week 3: Graph mode
++ Week 4: Distributed training 
+
+### Course III: Advanced Computer Vision with TensorFlow
++ Week 1: Introduction to Computer Vision
++ Week 2: Object Detection
++ Week 3: Image Segmentation
++ Week 4: Visualization and Interpretability 
+
+### Course VI: Generative Deep Learning with TensorFlow
++ Week 1: Style Transfer
++ Week 2: AutoEncoders
++ Week 3: Variational AutoEncoders (VAEs)
++ Week 4: GANs
+
+## Specialization II: TensorFlow: Developer Professional Certificate
+
+
+
+## Specialization III: TensorFlow: Data and Deployment
