@@ -8,7 +8,7 @@ A collection of Jupiter Notebooks from Coursera specializations. The following i
 + Week 1: Familiarity with the Functional API
 + Week 2: Custom loss function
 + Week 3: Lambda layer and purely custom layer 
-+ Week 4: Custom models, build ResNet
++ Week 4: Custom models, build ResNet, VGG network 
 + Week 5: Custom callbacks to prevent overfitting: TensorBoard, Model Checkpoint, Early Stopping, CSV Logger, Learning rate scheduler, ReduceLROnPlateau
 
 ### Course II: Custom and Distributed Training with TensorFlow
@@ -23,7 +23,7 @@ A collection of Jupiter Notebooks from Coursera specializations. The following i
 + Week 3: Image Segmentation
 + Week 4: Visualization and Interpretability 
 
-### Course VI: Generative Deep Learning with TensorFlow
+### Course IV: Generative Deep Learning with TensorFlow
 + Week 1: Style Transfer
 + Week 2: AutoEncoders
 + Week 3: Variational AutoEncoders (VAEs)
